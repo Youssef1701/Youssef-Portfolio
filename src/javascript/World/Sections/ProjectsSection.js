@@ -319,7 +319,7 @@ export default class ProjectsSection {
                 ],
                 floorTexture: this.resources.items.projectsKepplerFloorTexture,
                 link: {
-                    href: "",
+                    href: "https://github.com/Youssef1701/Keppler",
                     x: 2.75,
                     y: -1.1,
                     halfExtents: {
